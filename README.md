@@ -3,13 +3,15 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/irfanzim/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Develop a comprehensive _[customer performance report](https://github.com/irfanzim/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/irfanzim/Excel-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+- **Purpose of sales analytics:** To empower businesses by providing insights to monitor and evaluate sales activities and performance metrics.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+- **Importance of analyzing sales data:**
+- Identify patterns in sales.
+- Track and optimize key performance indicators (KPIs).
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
