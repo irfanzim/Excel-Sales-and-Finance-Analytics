@@ -9,7 +9,7 @@
 
 - **Purpose of sales analytics:**
   
-     **-** To empower businesses by providing insights to monitor and evaluate sales activities and performance metrics.
+     **** To empower businesses by providing insights to monitor and evaluate sales activities and performance metrics.
 
 - **Importance of analyzing sales data:**
 - Identify patterns in sales.
