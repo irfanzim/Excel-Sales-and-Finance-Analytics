@@ -1,6 +1,6 @@
 # Excel Sales & Finance Analytics
 
-This repository showcases a comprehensive business intelligence project built entirely within Microsoft Excel. It uses Power Query for ETL, Power Pivot for data modeling, and DAX for calculations to transform raw transactional data into actionable insights for the fictitious company, AtliQ Hardwares.
+This repository showcases a comprehensive business intelligence project built entirely within Microsoft Excel. It uses Power Query for ETL, Power Pivot for data modeling, and DAX for calculations to transform raw transactional data into actionable insights for AtliQ Hardwares.
 
 ---
 
@@ -77,4 +77,4 @@ This analysis provides a granular view of AtliQ Hardwares' profitability, allowi
 
 ### Acknowledgments
 
-This project was completed based on a guided project from **Codebasics**. While the core dataset and problem statement were provided, all DAX measures, report designs, and key insights were developed independently.
+This project was completed based on a guided project from **Codebasics**. While the core dataset and problem statement were provided.
