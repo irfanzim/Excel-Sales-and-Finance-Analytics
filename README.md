@@ -1,4 +1,4 @@
-# Excel Sales & Finance Analytics Portfolio
+# Excel Sales & Finance Analytics
 
 This repository showcases a comprehensive business intelligence project built within Microsoft Excel. [cite_start]It leverages Power Query for ETL, Power Pivot for data modeling, and DAX for complex calculations to transform raw transactional data into actionable insights for AtliQ Hardwares[cite: 1, 11, 13, 23, 35, 43, 45, 47, 79].
 
