@@ -77,4 +77,4 @@ This analysis provides a granular view of AtliQ Hardwares' profitability, allowi
 
 ### Acknowledgments
 
-This project was completed based on a guided project from **Codebasics**. While the core dataset and problem statement were provided.
+This project was completed based on a guided project from **Codebasics**.
